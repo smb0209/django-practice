@@ -1,5 +1,5 @@
 # Django 샘플 튜토리얼 ( Django Sample Tutorial)
-
+### 이 레포는 Django 프로젝트 하위의 연습용 앱이다 (This repo is located Django project and an app for practice)
 1. 모델생성 및 디비에 마이그레이션 ( Define Models and Migrate to Database)
    1. ./models.py 에 클래스로 생성 (ORM 이라고 생각하면 쉬움) - Define relation in ./models.py file as a Class (just think it as a ORM then it feels easier)
    2. python manage.py makemigrations ${app_name}
